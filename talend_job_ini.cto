@@ -1,0 +1,17 @@
+exchange_server_login==Test2
+exchange_server_password==T3mpBelep02
+exchange_server_URI==https://exchange.baystreamsolutions.com/ews/Exchange.asmx
+talendMssqlDb_Server==KLT-IN-AGARG
+talendMssqlDb_Schema==dbo
+talendMssqlDb_Password==sa
+talendMssqlDb_Port==1433
+SystemDataDirPath==E:/arpit/baymain/30oct2013/
+talendMssqlDb_Database==MFSQLSYNC_DEMOVAULT
+talendMssqlDb_Login==sa
+talendMssqlDb_AdditionalParams==
+//instance=SQLEXPRESS
+exchange_server==baystreamsolutions
+exchange_server_TraceEnabled==false
+exchange_server_max_contacts_fetch==1000000000
+context_file_path==../
+contacts_excel_filename==contacts 9 2013.xlsx
